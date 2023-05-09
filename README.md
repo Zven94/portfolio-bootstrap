@@ -93,6 +93,12 @@ To run this project:
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 Nicolás E. Bolañez
+- GitHub: [Nico](https://github.com/zven94)
+- Twitter: [Nico](https://twitter.com/nicolas_bolanez)
+- LinkedIn: [Nico](https://www.linkedin.com/in/nicolas-bola%C3%B1ez-520372222/)
+
+
 👤 Solomon G. Kidanu
 - GitHub: [Solomon](https://github.com/solog0039)
 - Twitter: [Solomon](https://twitter.com/Solomon57320119)
